@@ -13,3 +13,4 @@ Customer:
 To Proceed;
 Install Java Swing.
 Run "RunApp.java"
+Password for admin is "plastic123"
